@@ -31,7 +31,7 @@ The code is hosted at https://github.com/seme0021/python-zillow
 
 Check out the latest development version anonymously with::
 ```shell
-    $ git clone git://github.com/seme0021/python-zillow.git
+    $ git clone git://github.com/deliteser112/python-zillow.git
     $ cd python-zillow
 ```
 
